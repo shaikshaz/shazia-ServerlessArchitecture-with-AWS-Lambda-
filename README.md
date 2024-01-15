@@ -33,3 +33,5 @@ Step 6: Set Up API Gateway
 If you want to expose your Lambda function via an API, set up an API Gateway and integrate it with your Lambda function by setting the trigger. That way you can use the provided endpoint to invoke your serverless Lambda function.
 Go to the API Gateway console.
 Click "Create API."
+
+![image](https://github.com/shaikshaz/shazia-ServerlessArchitecture-with-AWS-Lambda-/assets/154241222/dcd98707-cbe2-4438-b99a-e82b13fea8a2)
