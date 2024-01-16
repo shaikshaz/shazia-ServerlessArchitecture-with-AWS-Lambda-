@@ -3,7 +3,7 @@ Step 1. Create a DynamoDB Table
 Navigate to the DynamoDB console.
 Click on the "Create table" button.
 Provide a table name (shazia-Serverless-DDBTable).
-Set the primary key. For simplicity, use a single attribute named id of type String.
+Set the primary key. For simplicity i have used a single attribute named id of type String.
 Configure additional settings as needed (e.g., provisioned throughput, encryption).
 Click "Create" to create the table.
 
@@ -13,7 +13,7 @@ Click on "Roles" in the left navigation pane.
 Click "Create role. “Choose "AWS Lambda" as the service that will use this role.
 Attach the policy Amazon Dynamo DBFull Access (or create a custom policy with specific permissions).
 Review and name the role 
-Create the role.
+Create the role.(shazia-DDB1)
 
 Step 3. Create an AWS Lambda Function
 Choose from scratch // blueprint
