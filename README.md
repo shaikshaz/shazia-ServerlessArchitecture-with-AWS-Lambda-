@@ -93,8 +93,7 @@ def lambda_handler(event, context):
     }
 now give input and it will give the latest data update with time stamp and first ,last name
 11.Update our HTML with our dynamic JAVA Script .-Java script is handling API call which is invoking our lambda function
-
-lueprint
+blueprint
 Choose the role you created in step 2
 
 Step 4. Add DynamoDB table as an environment variable (under configuration tab)
